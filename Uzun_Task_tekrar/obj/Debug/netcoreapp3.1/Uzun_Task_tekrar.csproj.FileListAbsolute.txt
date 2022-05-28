@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\PRACTIC\Uzun_Task_tekrar\Uzun_Task_tekrar\bin\Debug\netcoreapp3.1\Uzun_Task_tekrar.exe
+C:\Users\User\Desktop\PRACTIC\Uzun_Task_tekrar\Uzun_Task_tekrar\bin\Debug\netcoreapp3.1\Uzun_Task_tekrar.deps.json
+C:\Users\User\Desktop\PRACTIC\Uzun_Task_tekrar\Uzun_Task_tekrar\bin\Debug\netcoreapp3.1\Uzun_Task_tekrar.runtimeconfig.json
+C:\Users\User\Desktop\PRACTIC\Uzun_Task_tekrar\Uzun_Task_tekrar\bin\Debug\netcoreapp3.1\Uzun_Task_tekrar.runtimeconfig.dev.json
+C:\Users\User\Desktop\PRACTIC\Uzun_Task_tekrar\Uzun_Task_tekrar\bin\Debug\netcoreapp3.1\Uzun_Task_tekrar.dll
+C:\Users\User\Desktop\PRACTIC\Uzun_Task_tekrar\Uzun_Task_tekrar\bin\Debug\netcoreapp3.1\Uzun_Task_tekrar.pdb
+C:\Users\User\Desktop\PRACTIC\Uzun_Task_tekrar\Uzun_Task_tekrar\obj\Debug\netcoreapp3.1\Uzun_Task_tekrar.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PRACTIC\Uzun_Task_tekrar\Uzun_Task_tekrar\obj\Debug\netcoreapp3.1\Uzun_Task_tekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PRACTIC\Uzun_Task_tekrar\Uzun_Task_tekrar\obj\Debug\netcoreapp3.1\Uzun_Task_tekrar.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PRACTIC\Uzun_Task_tekrar\Uzun_Task_tekrar\obj\Debug\netcoreapp3.1\Uzun_Task_tekrar.AssemblyInfo.cs
+C:\Users\User\Desktop\PRACTIC\Uzun_Task_tekrar\Uzun_Task_tekrar\obj\Debug\netcoreapp3.1\Uzun_Task_tekrar.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PRACTIC\Uzun_Task_tekrar\Uzun_Task_tekrar\obj\Debug\netcoreapp3.1\Uzun_Task_tekrar.dll
+C:\Users\User\Desktop\PRACTIC\Uzun_Task_tekrar\Uzun_Task_tekrar\obj\Debug\netcoreapp3.1\Uzun_Task_tekrar.pdb
+C:\Users\User\Desktop\PRACTIC\Uzun_Task_tekrar\Uzun_Task_tekrar\obj\Debug\netcoreapp3.1\Uzun_Task_tekrar.genruntimeconfig.cache

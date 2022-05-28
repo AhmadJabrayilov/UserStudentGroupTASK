@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Uzun_Task_tekrar/1.0.0": {
+        "runtime": {
+          "Uzun_Task_tekrar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uzun_Task_tekrar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
